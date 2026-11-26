@@ -1,0 +1,10 @@
+.vs/
+Generated Files/
+packages/
+x64/
+Debug/
+Release/
+*.user
+*.suo
+*.exe
+*.pdb
